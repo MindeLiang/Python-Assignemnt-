@@ -1,2 +1,2 @@
-# FullStackWorkshop
+# Python Assignment
 Summer Semester
